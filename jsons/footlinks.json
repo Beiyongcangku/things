@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "capital": "Publications",
+      "items": [
+        { "name": "Journals", "to": "/journals" },
+        { "name": "Books", "to": "/books" },
+        { "name": "Proceedings", "to": "/conference/proceedings" },
+        { "name": "Special issues", "to": "/journals/special_issues" },
+        {
+          "name": "Propose a special issue",
+          "to": "/journals/special_issues"
+        }
+      ]
+    },
+    {
+      "capital": "For Authors",
+      "items": [
+        { "name": "Open Access Policy", "to": "/about/open_access" },
+        {
+          "name": "Submission guidelines",
+          "to": "/services/publication/for_authors"
+        },
+        {
+          "name": "Publication ethics",
+          "to": "/services/publication/publication_ethics"
+        },
+        {
+          "name": "Language service",
+          "to": "/services/language"
+        },
+        {
+          "name": "APC & invoice payment",
+          "to": "/"
+        }
+      ]
+    },
+    {
+      "capital": "Other Guidelines",
+      "items": [
+        {
+          "name": "For Reviewers",
+          "to": "/services/publication/for_reviewers"
+        },
+        { "name": "For Editors", "to": "/services/publication/for_editors" },
+        {
+          "name": "For Librarians",
+          "to": "/services/publication/for_librarians"
+        },
+        {
+          "name": "For Publishers",
+          "to": "/services/publication/for_publishers"
+        },
+        {
+          "name": "For Societies",
+          "to": "/services/publication/for_societies"
+        },
+        {
+          "name": "For Conference Organizers",
+          "to": "/services/publication/for_organizers"
+        }
+      ]
+    },
+    {
+      "capital": "Additional information",
+      "items": [
+        { "name": "Contact us", "to": "/about" },
+        { "name": "Privacy policy", "to": "/" }
+      ]
+    }
+  ]
+}
