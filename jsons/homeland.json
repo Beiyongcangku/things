@@ -1,0 +1,81 @@
+{
+  "subject": {
+    "heading": "A vibrant hub of academic knowledge",
+    "content": "Our mission is to inspire and empower the scientific exchange between scholars around the world, especially those from emerging countries. We provide a virtual library for knowledge seekers, a global showcase for academic researchers, and an open science platform for potential partners."
+  },
+  "shortcuts": [
+    {
+      "icon": "author.svg",
+      "name": "For Authors",
+      "to": "/services/publication/for_authors"
+    },
+    {
+      "icon": "reviewer.svg",
+      "name": "For Reviewers",
+      "to": "/services/publication/for_reviewers"
+    },
+    {
+      "icon": "editor.svg",
+      "name": "For Editors",
+      "to": "/services/publication/for_editors"
+    }
+  ],
+  "carousel": [
+    {
+      "image": "tree.png",
+      "to": "",
+      "data": {
+        "title": "Curiosity",
+        "heading": "Acadlore empowers those with never-ending curiosity for knowledge.",
+        "content": "Psychologists, philosophers, and wellness experts alike have noted that curiosity, the thirst for knowledge, is a key human trait. Our world is driven by those with never-ending curiosity. As a multidisciplinary publisher, Acadlore provides avid learners with a wealth of academic knowledge.  Our diverse portfolio of open-access journals is an unquestioned source of spiritual riches for those with an inquiry mind."
+      }
+    },
+    {
+      "image": "brain.png",
+      "to": "",
+      "data": {
+        "title": "Collaboration",
+        "heading": "Acadlore energizes the collaboration between global researchers.",
+        "content": "Collaboration is the key to modern scientific research. The merging of different fields makes it possible to achieve incredible goals. Therefore, Acadlore spares no effort to support the collaborative research between researchers, institutions, organizations, and communities. By contributing to an Acadlore journal, you can collaborate with a reciprocal community of researchers, and share exciting findings with a relevant global audience."
+      }
+    },
+    {
+      "image": "link.png",
+      "to": "",
+      "data": {
+        "title": "Community",
+        "heading": "Acadlore envisions a community of shared knowledge for mankind.",
+        "content": "As stated by OECD, open science promotes a more accurate verification of scientific results. By combining the tools of science and information technologies, scientific enquiry and discovery can be sped up for the benefit of society. Acadlore looks forward to a community of shared knowledge for mankind. Our expertise in scholarly publishing enables us to anticipate and support the knowledge needs of potential partners, who also longs for a future of open science."
+      }
+    }
+  ],
+  "cards": {
+    "title": "Acadlore amasses academic knowledge in all disciplines, and shares it freely with people across the globe.",
+    "items": [
+      {
+        "icon": "/icons/lock.svg",
+        "heading": "Open Access",
+        "content": "Our journals are published as open access for everyone to read and download.",
+        "to": "/about/open_access"
+      },
+      {
+        "icon": "/icons/editorial.svg",
+        "heading": "Editorial Expertise",
+        "content": "Our editors and reviewers are experts in fast, efficient, and proper handling of every manuscript.",
+        "to": "/about/editorial_expertise"
+      },
+      {
+        "icon": "/icons/professional.svg",
+        "heading": "Professional Production",
+        "content": "Our production team proofreads and edits your manuscript by the strictest standard.",
+        "to": "/about/professional_production"
+      },
+      {
+        "icon": "/icons/system.svg",
+        "heading": "Systematic Publishing",
+        "content": "Our online management system streamlines the entire process of academic publishing.",
+        "to": "/about/systematic_publishing"
+      }
+    ]
+  }
+}
