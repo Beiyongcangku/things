@@ -1,3 +1,3 @@
 # things
 
-use to storage.
+media and images hub.
